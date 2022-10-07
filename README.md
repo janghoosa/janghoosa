@@ -13,8 +13,6 @@
  <br>
  <img src="https://img.shields.io/badge/Nginx-1877F2?style=flat-square&logo=Nginx&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/AWS-15AD1D?style=flat-square&logo=Amazonaws&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Elastic-7A2EE8?style=flat-square&logo=Elastic&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kotlin-511F9C?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 </p>
 <h3 align="center"> 💫 About Me 💫 </h3>
 <p align="center">
